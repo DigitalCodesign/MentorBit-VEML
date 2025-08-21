@@ -1,5 +1,9 @@
-NombreClase KEYWORD1
-Metodo1 KEYWORD2
-Metodo2 KEYWERD2
-Atributo1 LITERAL1
-Atributo1 LITERAL1
+MentorBitVEML KEYWORD1
+begin KEYWORD2
+setConfiguration KEYWERD2
+getRed KEYWERD2
+getGreen KEYWERD2
+getBlue KEYWERD2
+getWhite KEYWERD2
+getCCT KEYWERD2
+getAmbientLight KEYWERD2
